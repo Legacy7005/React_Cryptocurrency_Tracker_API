@@ -1,7 +1,7 @@
 # Todo List
 
 -DONE Create React App settup.
--Getting the API Link.
+-DONE Getting the API link.
 -Installing Axios.
 -Edit Coin Component.
 -Mapping through API Data.
