@@ -4,5 +4,5 @@
 -DONE Getting the API link.
 -DONE Installing Axios.
 -DONE Edit Coin Component.
--Mapping through API Data.
+-DONE Mapping through API Data.
 -Adding the CSS.
