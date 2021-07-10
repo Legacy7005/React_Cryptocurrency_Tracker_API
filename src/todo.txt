@@ -3,6 +3,6 @@
 -DONE Create React App settup.
 -DONE Getting the API link.
 -DONE Installing Axios.
--Edit Coin Component.
+-DONE Edit Coin Component.
 -Mapping through API Data.
 -Adding the CSS.
