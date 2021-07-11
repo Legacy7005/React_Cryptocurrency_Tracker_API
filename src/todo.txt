@@ -6,3 +6,4 @@
 -DONE Edit Coin Component.
 -DONE Mapping through API Data.
 -DONE Adding the CSS.
+- Header.

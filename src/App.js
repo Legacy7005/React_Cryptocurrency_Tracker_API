@@ -34,6 +34,14 @@ function App() {
           <input type="text" placeholder="Search" className="coin-input" onChange={handleChange}/>
         </form>
       </div>
+    <div className="tbl-header">
+        <div className="items">#</div>
+        <div className="items">Coin</div>
+        <div className="items">Price</div>
+        <div className="items">24h Volume</div>
+        <div className="items">24h</div>
+        <div className="items">Mkt Cap</div>
+    </div>
       {filteredCoins.map(coin => { 
         return(<Coin 
           key={coin.id} 

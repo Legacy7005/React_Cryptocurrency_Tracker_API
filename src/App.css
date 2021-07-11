@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Montserrat Alternates', sans-serif;
-    background-color: #1c3055;
+    background-color: #101d30;
     color: antiquewhite;
 }
 
@@ -27,8 +27,12 @@
     width: 300px;
     height: 40px;
     border-radius: 4px;
-    boder: none;
-    color: antiquewhite;
+    border: none;
+    background-color: #0b8657;
+}
+
+.coin-input::placeholder {
+    color: #fff;
 }
 
 .coin-search {
@@ -38,4 +42,25 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.tbl-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid #d7d7d7;
+    border-top: 1px solid #d7d7d7;
+    background-color: rgb(41, 41, 41);
+    width: 920px;
+}
+
+.items {
+    color: seagreen;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    padding: 0 2.5rem;
+    height: auto;
+    margin: 15px;
 }
